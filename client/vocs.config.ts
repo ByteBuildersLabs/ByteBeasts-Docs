@@ -18,7 +18,7 @@ export default defineConfig({
     dark: "/svg/horizontallightlogo.png",
     
   },
-  title: "Dojo by Example",
+  title: "ByteBeasts",
   rootDir: ".",
   sidebar: routes,
   editLink: {
