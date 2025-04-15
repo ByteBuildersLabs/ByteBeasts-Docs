@@ -34,8 +34,8 @@ const config: Sidebar = [
     link: "/MarketSize/market-size",
   },
   {
-    text: "Product Vision",
-    link: "/ProductVision/product-vision",
+    text: "ByteBeast Tamagotchi",
+    link: "/ByteBeastTamagotchi/bytebeast-tamagotchi",
   },
   {
     text: "Traction",
